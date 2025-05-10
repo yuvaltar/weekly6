@@ -1,3 +1,4 @@
+https://github.com/yuvaltar/weekly6.git
 # weekly6
 yuval tarnopolsky 322982810
 ### part 3:
